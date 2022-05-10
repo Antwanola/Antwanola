@@ -8,7 +8,7 @@ Things I do:
 👨🏻‍💻    Fullstack hands-on programming.<br>
 🧗🏻‍♂️    Ui desings<br>
 📊   Smart contract development and implimentation.<br>
-🌱  Printing Technologies<br>
+🌱  Print Technologist<br>
 <hr>
 
 Twitter: @AntwanOlatunji Linkedin: Olatunji Olayiwola GitHub Antwanola
